@@ -58,4 +58,7 @@ A functional Java-based chat application that:
 - Includes a multithreaded server handling multiple client connections.  
 - Allows real-time message exchange between users.  
 - Uses proper error handling and logging.  
-- Optionally features a GUI for improved user interaction.  
+- Optionally features a GUI for improved user interaction.
+
+**OUTPUT**:
+![Image](https://github.com/user-attachments/assets/2350626f-8c25-466b-a16d-d6afafc5fe67)
